@@ -4,9 +4,9 @@
     "url": "$PPC1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ppc-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 795,
     "timeMonth": 821,
     "timeYear": 821,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 0
+    }
   },
   {
     "name": "PPC2",
@@ -31,7 +33,7 @@
     "time": 1408,
     "timeDay": 1273,
     "timeWeek": 1299,
-    "timeMonth": 1408,
+    "timeMonth": 1410,
     "timeYear": 1408,
     "dailyMinutesDown": {}
   },
@@ -49,7 +51,7 @@
     "time": 1082,
     "timeDay": 903,
     "timeWeek": 918,
-    "timeMonth": 1082,
+    "timeMonth": 1093,
     "timeYear": 1082,
     "dailyMinutesDown": {}
   },
@@ -67,7 +69,7 @@
     "time": 1624,
     "timeDay": 1800,
     "timeWeek": 1572,
-    "timeMonth": 1624,
+    "timeMonth": 1634,
     "timeYear": 1624,
     "dailyMinutesDown": {}
   }
