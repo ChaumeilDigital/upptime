@@ -4,19 +4,19 @@
     "url": "$PPC1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ppc-1",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1349,
     "timeDay": 9739,
     "timeWeek": 3044,
     "timeMonth": 1383,
     "timeYear": 1349,
     "dailyMinutesDown": {
-      "2023-06-05": 6
+      "2023-06-05": 2
     }
   },
   {
@@ -24,10 +24,10 @@
     "url": "$PPC2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ppc-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1408,
@@ -35,17 +35,19 @@
     "timeWeek": 1299,
     "timeMonth": 1410,
     "timeYear": 1408,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 1
+    }
   },
   {
     "name": "WebDoc",
     "url": "$BTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-doc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1082,
@@ -53,16 +55,18 @@
     "timeWeek": 918,
     "timeMonth": 1093,
     "timeYear": 1082,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 1
+    }
   },
   {
     "name": "Site Groupe",
     "url": "https://groupechaumeil.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/groupechaumeil.fr.ico",
     "slug": "site-groupe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +75,8 @@
     "timeWeek": 1572,
     "timeMonth": 1634,
     "timeYear": 1624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 0
+    }
   }
 ]
