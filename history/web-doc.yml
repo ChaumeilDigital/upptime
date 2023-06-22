@@ -1,7 +1,7 @@
 url: $BTP
-status: down
-code: 503
-responseTime: 739
-lastUpdated: 2023-06-22T08:33:05.505Z
+status: up
+code: 200
+responseTime: 803
+lastUpdated: 2023-06-22T08:39:10.527Z
 startTime: Fri May 05 2023 10:01:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
